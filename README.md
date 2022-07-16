@@ -1,5 +1,5 @@
 
-<h1 align="center">Frontend Mentor - Advice generator app</h1>
+<h1 align="center">👋 Frontend Mentor - Advice generator app 🚀</h1>
 
 <div align="center">
   <h3>
